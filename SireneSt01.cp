@@ -1,4 +1,4 @@
-#line 1 "C:/Users/Public/Documents/Mikroelektronika/SireneSt01/SireneSt01.c"
+#line 1 "C:/Users/Public/Documents/Mikroelektronika/SireneSt01/SireneSt01/SireneSt01.c"
 
 
 
@@ -171,7 +171,7 @@ while( RA1_bit  == 1 &&  RA0_bit  == 1 &&  RA7_bit  == 1){
 
  freq++;
  }
-#line 187 "C:/Users/Public/Documents/Mikroelektronika/SireneSt01/SireneSt01.c"
+#line 187 "C:/Users/Public/Documents/Mikroelektronika/SireneSt01/SireneSt01/SireneSt01.c"
 }
 
 void yelp2(void){

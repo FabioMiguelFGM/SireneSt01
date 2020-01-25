@@ -1,5 +1,5 @@
 #define  sel2 RA0_bit
-#define  sel1 RA1_bit
+#define  sel1 RA1_bit                                 //Programa Para Sirene St01 atualizado 25/01/2020
 #define  sel3 RA7_bit
 
 #define  som1 RB7_bit
