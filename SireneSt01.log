@@ -1,0 +1,22 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP16F628A -DL -O11111114 -fo4 -N"C:\Users\Public\Documents\Mikroelektronika\SireneSt01\SireneSt01.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -SP"C:\Users\Public\Documents\Mikroelektronika\SireneSt01\" -IP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16\" -IP"C:\Users\Public\Documents\Mikroelektronika\SireneSt01\" "SireneSt01.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 208 [bytes], Available ROM: 2048 [bytes]	 
+diagnostics: 0	122	Compilation Started	SireneSt01.c
+hint: 9	1163	Variable 'c' has been declared, but not used	SireneSt01.c
+hint: 42	1163	Variable 'c' has been declared, but not used	SireneSt01.c
+hint: 76	1163	Variable 'c' has been declared, but not used	SireneSt01.c
+hint: 76	1163	Variable 'd' has been declared, but not used	SireneSt01.c
+hint: 76	1163	Variable 'freq' has been declared, but not used	SireneSt01.c
+hint: 102	1163	Variable 'c' has been declared, but not used	SireneSt01.c
+hint: 135	1163	Variable 'c' has been declared, but not used	SireneSt01.c
+hint: 135	1163	Variable 'd' has been declared, but not used	SireneSt01.c
+hint: 135	1163	Variable 'freq' has been declared, but not used	SireneSt01.c
+hint: 157	1163	Variable 'c' has been declared, but not used	SireneSt01.c
+hint: 157	1163	Variable 'd' has been declared, but not used	SireneSt01.c
+diagnostics: 213	123	Compiled Successfully	SireneSt01.c
+diagnostics: 0	127	All files Compiled in 141 ms	 
+hint: 0	1144	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 206 (99%)	Used RAM (bytes): 2 (1%)  Free RAM (bytes): 206 (99%)
+hint: 0	1144	Used ROM (program words): 999 (49%)  Free ROM (program words): 1049 (51%)	Used ROM (program words): 999 (49%)  Free ROM (program words): 1049 (51%)
+diagnostics: 0	125	Project Linked Successfully	SireneSt01.mcppi
+diagnostics: 0	128	Linked in 0 ms	 
+diagnostics: 0	129	Project 'SireneSt01.mcppi' completed: 156 ms	 
+diagnostics: 0	103	Finished successfully: 17 jan 2020, 13:04:19	SireneSt01.mcppi

@@ -1,0 +1,8 @@
+main
+	wail
+	yelp
+	hilo
+	priority
+	horn
+	yelp2
+	man
